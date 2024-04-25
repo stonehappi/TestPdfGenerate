@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qonKTox78vTvzXEpe83cbIg211ucccDtALL9dQG7mZskwUnkxBQS2m101+XyF9tt3Qwoi0iQN49watOcsbpaiA==",
+  "success": true,
+  "projectFilePath": "/Users/stone-wh/Wedding-Hub/ATS/TestPdfGenerate/TestPdfGenerate/TestPdfGenerate.csproj",
+  "expectedPackageFiles": [
+    "/Users/stone-wh/.nuget/packages/questpdf/2024.3.1/questpdf.2024.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
